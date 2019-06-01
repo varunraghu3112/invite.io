@@ -55,6 +55,7 @@ function countdownTime(){
 				+ '<div class="time-sec"><span class="title">%D</span> days </div>'
 				+ '<div class="time-sec"><span class="title">%H</span> hours </div>'
 				+ '<div class="time-sec"><span class="title">%M</span> minutes </div>'
+				
 				));
 		});
 	}
